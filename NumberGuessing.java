@@ -55,5 +55,6 @@ public class NumberGuessing {
                 System.out.println("Invalid input. Please enter a valid integer.");
             }
         }
+        Main.main(new String[]{});
     }
 }
